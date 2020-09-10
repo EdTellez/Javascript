@@ -1,0 +1,8 @@
+A las funciones declarativas se les aplica 'hoisting' y
+a la expresión de función, no. El hoisting se aplica en
+las palabras reservadas 'var' y 'function'.
+
+Esto quiere decir, que con las funciones declarativas,
+podemos mandar llamar la función antes de que sea
+declarada y con la expresión de función, no, se tendría
+que declarar primero y luego mandarla llamar.
